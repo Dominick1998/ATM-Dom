@@ -6,6 +6,13 @@ Alexander Jaeger
 March 19, 2020
 */
 
+/*
+I was having trouble 
+transfering from one account to another 
+so I decided to just create a desposit 
+and a withdrawal option(Sorry!)
+*/
+
 
 #include <iostream>  
 #include <cstdlib>    
